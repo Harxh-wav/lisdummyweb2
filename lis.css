@@ -1,0 +1,148 @@
+body{ border: 0px;
+
+    margin: 0px 0px 0px 0px;
+    /* width: 100%; */
+}
+
+.about-section{
+    background-color: #2F4487;
+    /* display: flex; */
+    color: white;
+    width:  100%;
+    height: 192.8px;
+    
+}
+.links{
+    color: white;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    padding: 10px;
+}
+.links1{
+    color: azure;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    /* float: left; */
+    justify-content: space-between;
+    margin-right: 10px;
+   
+}
+.links1:hover{
+    color: bisque;
+}
+.top-section{
+    width: 100%;
+    height: 48px;
+    display: flex;
+}
+.Virtual-Tour-Icon1{ margin-left: 40%;
+    margin-top: 14px;
+
+}
+
+.virtual{width:31.9px;
+    height: 31.35px;
+}
+.vr{
+    display: flex ;
+list-style-type: none;
+color: white;
+text-decoration: none;
+margin-top: -110%;
+height: 2024px;
+width: 48px;
+font-size: 20px;
+font-weight: 600;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+justify-content: space-between;
+
+}
+.socials{
+    /* display: flex; */
+    
+ 
+    /* height: 36px;
+    width: 158.65px; */
+}
+.logosocial{
+    height: 36px;
+  
+    width: 36px;
+    /* margin-top: 0%;
+    margin-left: 10%; */
+    display: flex;
+   padding-left: 200px;
+  padding-top: 20px;
+}
+.logosocial:hover{
+    height: 30px;
+    width: 30px;
+   /* transition: 1s ease-in; */
+   border-radius: 3px 3px 3px 3px;
+}
+#instal{height: 36px;
+    width: 36px;
+    padding-left: 250px;
+    margin-top: -20%;
+
+}
+
+.mid{ width:100%;
+height: 84.8px;
+margin-top: -86px;
+display: flex;
+align-content: center;
+justify-content: center;}
+
+.middle-section{
+    width:100%;
+    height: 62px;
+}
+.backcover{
+    
+    width: 100%;
+    background-image: url(https://laxmi.edu.in/wp-content/uploads/2021/07/1-2-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    filter: blur(.7px);
+    z-index: -1;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+}
+.content{
+    color: hsl(0, 12%, 60%);
+  
+    text-align: center;
+    margin-top: 0%;
+    display: flex;
+    height: 164px;
+    flex-direction: initial;
+    flex-wrap: initial;
+    justify-content: initial;
+    align-items: initial;
+    align-content: initial;
+    gap: initial;
+    flex-basis: initial;
+    flex-grow: initial;
+    flex-shrink: initial;
+    order: initial;
+    align-self: initial;
+    flex-basis: var(--flex-basis);
+    flex-grow: var(--flex-grow);
+    flex-shrink: var(--flex-shrink);
+    order: var(--order);
+}
+.contentmain{
+    height: 164px;
+    width: 1372px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    text-align: right;
+    justify-content: end;
+    margin: 10%;
+}
